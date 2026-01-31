@@ -9,6 +9,7 @@ import androidx.lifecycle.viewModelScope
 import com.example.remidi.entity.Kategori
 import com.example.remidi.entity.Pengarang
 import com.example.remidi.entity.StatusPeminjaman
+import com.example.remidi.navigasi.route.DestinasiDetailBuku
 import com.example.remidi.relation.BukuLengkap
 import com.example.remidi.repositori.RepoBuku
 import com.example.remidi.repositori.RepoKat
